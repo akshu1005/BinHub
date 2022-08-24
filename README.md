@@ -1,6 +1,6 @@
 # BinHub
 
-BinHub is a mobile app prototype solution designed for INFO 360:Design Thinking course at the University of Washington iSchool.
+BinHub is a mobile app prototype solution designed at INFO 360:Design Thinking course at the University of Washington iSchool.
 
 <h4> Problem Statement: </h4>
 
