@@ -2,16 +2,7 @@
 
 BinHub is a mobile app prototype solution designed at INFO 360:Design Thinking course at the University of Washington iSchool.
 
-<h4> Problem Statement: </h4>
-
-How might college students struggling
-with owning many unwanted
-belongings achieve learning about
-minimalism and planning their
-declutter process so that they can live
-a more stress free lifestyle.
-
-This repository contains the Figma prototype, Prototype demo video and a presentation deck that better explain the project. 
+This repository contains the *Figma prototype*, *Prototype demo video* and a *presentation deck* that better explain the project. 
 
 Click image below to view demo video
 [![prototype](demo.png)](https://www.youtube.com/watch?v=7dhMfW2wTtY)
